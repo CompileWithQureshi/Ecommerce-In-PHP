@@ -15,18 +15,7 @@
 - [License](#license)
 - [Contact](#contact)
 
-root
-│
-├── auth/                # Handles authentication (login, signup)
-├── includes/db/         # Database connection and queries
-├── views/admin/         # Admin panel pages
-├── views/public/        # Public pages for users (home, cart, etc.)
-├── partials/            # Reusable components (navbar, footer)
-├── assets/              # Static assets (images, CSS, JS)
-├── index.php            # Main entry point for the application
-├── README.md            # Project documentation
-├── .gitignore           # Git ignore file
-└── LICENSE              # License file (optional)
+
 
 ## Introduction
 
