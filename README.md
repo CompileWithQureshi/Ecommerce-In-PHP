@@ -28,7 +28,6 @@ root
 ├── .gitignore           # Git ignore file
 └── LICENSE              # License file (optional)
 
-
 ## Introduction
 
 This **Ecommerce in PHP** project is built to handle essential ecommerce functionalities such as user signup/login, product browsing, shopping cart, and order management. The platform is divided into two major roles:
