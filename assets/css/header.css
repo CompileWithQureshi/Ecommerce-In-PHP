@@ -1,0 +1,33 @@
+.navbar-custom {
+    background-color: #ffffff; /* White background */
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+/* Increased width for the search input */
+.form-control {
+    max-width: 500px; /* Adjusted input width */
+}
+.form-control:focus-within{
+    width: 500px;
+}
+
+.nav-icon {
+    font-size: 2rem;
+    position: relative;
+}
+
+.cart-badge {
+    position: absolute;
+    top: -5px;
+    right: -10px;
+    background-color: red;
+    color: white;
+    border-radius: 50%;
+    font-size: 0.7rem;
+    width: 18px;
+    height: 18px;
+    text-align: center;
+}
